@@ -1,0 +1,7 @@
+[package]
+name = "tropical-geometry"
+version = "0.1.0"
+edition = "2021"
+description = "Tropical geometry for neural network analysis: max-plus algebra, tropical polynomials, and ReLU network correspondence"
+
+[dependencies]
